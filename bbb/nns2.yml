@@ -1,6 +1,6 @@
 spring:
   profiles:
-    active: dev
+    active: test
 ---
 spring:
   profiles: dev
@@ -8,4 +8,4 @@ name: bbbdev
 ---
 spring:
   profiles: test
-name: bbbtest
+name: bbbtest6666
